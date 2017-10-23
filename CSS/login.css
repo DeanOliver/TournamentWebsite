@@ -1,0 +1,44 @@
+input{
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 35%;
+}
+
+#login_button, #register_button{
+	display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 20px;
+    text-decoration: none;
+    background-color: #80bdff;
+    border-radius: 5px;
+    border: 1px solid  #80bdff;
+    cursor: pointer;
+    width:30%;
+    margin-left: 35%;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#forms{
+	margin-top: 7%;
+}
+
+#login_fail, #reg_fail{
+    display: block;
+    text-align: center;
+    padding: 12px 20px;
+    background: rgb(202, 60, 60);
+    border-radius: 5px;
+    border: 1px rgb(202, 60, 60);
+    height: 15px;
+    width:30%;
+    margin-left: 35%;
+    margin-top: 0.5%;
+    color: white;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    visibility: hidden;
+}

@@ -1,0 +1,54 @@
+#xbox_tourneys{
+	width : 100%;
+	height : 500px;
+}
+
+#EU_Xbox_League{
+	width : 50%;
+	height : 500px;
+	float : left;
+}
+
+#EU_Xbox_Tourney{
+	width : 50%;
+	height : 500px;
+	float : right;
+	margin-right: 0px;
+}
+
+.tourney_img{
+    width: 300px;
+    height: 500px;
+}
+
+#EU_xbox_tourney_img{
+    float: right;
+    margin-right: 40px;
+}
+
+#EU_xbox_league_img{
+	float: left;
+	 margin-left: 40px;
+}
+
+.soon_div{
+	width : 100%;
+	height : 40px;
+}
+
+.soon{
+	background-color: #80bdff;
+	width : 300px;
+	height : 100%;
+	color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#EUXT_soon{
+	float : right;
+	margin-top: 0px;
+	margin-right: 40px;
+}

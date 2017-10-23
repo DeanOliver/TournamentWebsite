@@ -1,0 +1,182 @@
+#title{
+	margin-left: auto;
+    margin-right: auto;
+	width: 70%;
+	background: #e6f2ff;
+	color: #111;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 70px;
+	font-weight: bold;
+	letter-spacing: -1px;
+	text-align: center;
+}
+
+#buttons_containers{
+	margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#display{
+	margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+#league_table{
+    width: 22%;
+    float: right;
+    margin-right: 85px;
+    
+}
+
+#fixture_table{
+    width: 22%;
+    float: right;
+    margin-right: 10px;
+
+}
+
+#sign_up{
+    width: 22%;
+    float: left;
+    margin-left: 85px;
+    
+}
+
+#league_display{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 80%;
+    background: #e6f2ff;
+    display: none; 
+}
+
+#fixture_display{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 80%;
+    background: #e6f2ff;
+    display: none; 
+}
+
+#positions{
+    float : left;
+    width : 30%;
+    height : 100%;
+    text-align: center;
+    background: #e6f2ff;
+}
+
+.positions{
+    height : 35px;
+    width : 100%;
+    margin-top : 0%;
+    margin-bottom : 0%;
+    text-indent: 10px;
+    background: #e6f2ff;
+    text-align: center;
+    border-bottom : 2px solid black;
+    line-height : 200%;
+    font-weight: bold;
+}
+
+#team_names{
+    float : left;
+    width : 40%;
+    height : 100%;
+    text-align: center;
+    background: #e6f2ff;
+}
+
+.team_names{
+    height : 35px;
+    width : 100%;
+    margin-top : 0%;
+    margin-bottom : 0%;
+    text-indent: 10px;
+    background: #e6f2ff;
+    text-align: center;
+    border-bottom : 2px solid black;
+    line-height : 200%;
+    font-weight: bold;
+}
+
+#points{
+    float : left;
+    width : 30%;
+    height : 100%;
+    text-align: center;
+    background: #e6f2ff;
+}
+
+.points{
+    height : 35px;
+    width : 100%;
+    margin-top : 0%;
+    margin-bottom : 0%;
+    text-indent: 10px;
+    background: #e6f2ff;
+    text-align: center;
+    border-bottom : 2px solid black;
+    line-height : 200%;
+    font-weight: bold;
+}
+
+#fixtures{
+    float : left;
+    width : 70%;
+    height : 100%;
+    text-align: center;
+    background: #e6f2ff;
+}
+
+.fixtures{
+    height : 35px;
+    width : 100% - 2px;
+    margin-top : 0%;
+    margin-bottom : 0%;
+    text-indent: 10px;
+    background: #e6f2ff;
+    text-align: center;
+    border-right : 2px solid black;
+    border-bottom : 2px solid black;
+    line-height : 200%;
+    font-weight: bold;
+}
+
+#results{
+    float : left;
+    width : 30%;
+    height : 100%;
+    text-align: center;
+    background: #e6f2ff;
+}
+
+.results{
+    height : 35px;
+    width : 100%;
+    margin-top : 0%;
+    margin-bottom : 0%;
+    text-indent: 10px;
+    background: #e6f2ff;
+    text-align: center;
+    border-bottom : 2px solid black;
+    line-height : 200%;
+    font-weight: bold;
+}
+
+.no_data{
+    height : 35px;
+    width : 700px;
+    margin-top : 0%;
+    margin-bottom : 0%;
+    background : #ff4d4d;
+    text-align : center;
+    border-bottom : 2px solid black;
+    line-height : 200%;
+    font-weight: bold;
+}

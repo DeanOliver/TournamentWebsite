@@ -1,0 +1,37 @@
+/* Europe box */
+#EU_Tourney{
+    width: 300px;
+    height: 230px;
+    margin-left : 5%; 
+    float: left;
+
+}
+
+/* North America box*/
+#NA_Tourney{
+    width: 300px;
+    height: 230px;
+    margin-right : 5%;
+    float: right;
+
+}
+
+#EU_logo, #NA_logo{
+    width: 300px;
+    height: 230px; 
+}
+
+#flags{
+    width: 300px;
+    height: 230px; 
+}
+
+#banner{
+	height: 100px;
+}
+
+#NA_soon{
+    float : right;
+    margin-top: 0px;
+    margin-right: 42px;
+}

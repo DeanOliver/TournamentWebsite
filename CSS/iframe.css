@@ -1,0 +1,77 @@
+#display{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 0.5%;
+    height: 600px;
+    width: 90%;
+    float: left;
+}
+
+#fixture_form{
+    margin-top: 10px;
+}
+
+#league_iframe, #fixture_iframe{
+    background: #e6f2ff;
+    height: 100%;
+    width: 100%;
+}
+
+.table_data{
+    text-align: center;
+    color: black;
+}
+
+.my_table_data{
+    background: #80bdff;
+    text-align: center;
+    color: black;
+}
+
+.fixture_win{
+    background: #70db70;
+    text-align: center;
+    color: black;
+}
+
+.fixture_lose{
+    background: #ff4d4d;
+    text-align: center;
+    color: black;
+}
+
+#my_league_display{
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: none;    
+}
+
+#my_team_display{
+    background: blue;
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: none;
+}
+
+#my_fixtures_display{
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: block; 
+}
+
+#league_display{
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: block;    
+}
+
+#fixture_display{
+    height: 100%;
+    width: 100%;
+    float: left;
+    display: none; 
+}

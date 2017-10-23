@@ -1,0 +1,108 @@
+#team_list{
+	background : white;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width : 90%;
+    float: left;
+}
+
+#team_results{
+	background: #e6f2ff;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width : 90%;
+    float: left;
+    display : none;
+}
+
+.team_name{
+	height : 35px;
+	background: #e6f2ff;
+	text-align: center;
+	border-bottom : 2px solid black;
+	line-height : 200%;
+	font-weight: bold;
+	cursor : pointer;
+}
+
+.team_name:hover{
+	background: #80bdff;
+}
+
+.no_teams{
+	height : 35px;
+	width : 100%;
+	margin-top : 0%;
+	margin-bottom : 0%;
+	background : #ff4d4d;
+	text-align : center;
+	border-bottom : 2px solid black;
+	line-height : 200%;
+	font-weight: bold;
+}
+
+#team_roster{
+	float : left;
+	width : 40%;
+	height : 100%;
+	background: #e6f2ff;
+}
+
+.team_roster{
+	height : 35px;
+	width : 100% - 2px;
+	margin-top : 0%;
+	margin-bottom : 0%;
+	text-indent: 10px;
+	background: #e6f2ff;
+	text-align: left;
+	border-bottom : 2px solid black;
+	border-color: #1a242f;
+	line-height : 200%;
+	font-weight: bold;
+}
+
+#team_fixtures{
+	float : left;
+	width : 50%;
+	height : 100%;
+	background: #e6f2ff;
+}
+
+.team_fixtures{
+	height : 35px;
+	width : 100% - 2px;
+	margin-top : 0%;
+	margin-bottom : 0%;
+	text-indent: 10px;
+	background: #e6f2ff;
+	text-align: center;
+	border-right : 2px solid black;
+	border-bottom : 2px solid black;
+	border-color: #1a242f;
+	line-height : 200%;
+	font-weight: bold;
+}
+
+#team_result{
+	float : left;
+	width : 10%;
+	height : 100%;
+	background: #e6f2ff;
+}
+
+.team_result{
+	height : 35px;
+	width : 100%;
+	margin-top : 0%;
+	margin-bottom : 0%;
+	text-indent: 10px;
+	background: #e6f2ff;
+	text-align: left;
+	border-bottom : 2px solid black;
+	border-color: #1a242f;
+	line-height : 200%;
+	font-weight: bold;
+}

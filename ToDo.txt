@@ -1,0 +1,9 @@
+To add
+
+- Link team to account names
+- Link account names to users
+- A 'My Team' tab to the nav bar
+- Results databse
+- A table with teams current standings
+- Edit user details from the my profile page
+- Rules

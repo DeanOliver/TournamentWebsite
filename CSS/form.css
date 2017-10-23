@@ -1,0 +1,72 @@
+#forms{
+    margin-left: auto;
+    margin-right: auto;
+    width : 100%;
+    margin-top: 7%;
+}
+
+input{
+	width: 30%;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#platform, #region, #results_league_select{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    padding: 12px 20px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+}
+
+#login_button, #register_button, 
+#team_button, #search_button{
+	display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 20px;
+    text-decoration: none;
+    background-color: #80bdff;
+    border-radius: 5px;
+    border: 1px solid  #80bdff;
+    cursor: pointer;
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#match_league_select, #pos_league_select,
+#league_creation_select, #view_signups_select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    margin : 0%;
+}
+
+
+#login_fail, #reg_fail{
+    display: block;
+    text-align: center;
+    padding: 12px 20px;
+    background: #ff4d4d;
+    border-radius: 5px;
+    border: 1px #ff4d4d;
+    height: 15px;
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5%;
+    color: white;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    visibility: hidden;
+}
